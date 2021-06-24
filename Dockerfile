@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER Anuragbharti-oss
+MAINTAINER anuragbharti
 RUN yum install -y httpd \ 
   zip \ 
   unzip \
